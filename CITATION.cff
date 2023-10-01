@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "VacancyAssistedChargeTransport.jl -- Simulating vacancy-assisted charge transport in semiconductors"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - given-names: Dilara
+    family-names: Abdel
+    email: dilara.abdel@wias-berlin.de
+    affiliation: Weierstrass Institute Berlin
+    orcid: 'https://orcid.org/0000-0003-3477-7881'
+doi: "10.5281/zenodo.8396870"
+license: AGPL-3.0
+repository-code: "https://github.com/dilaraabdel/VacancyAssistedChargeTransport.jl"
