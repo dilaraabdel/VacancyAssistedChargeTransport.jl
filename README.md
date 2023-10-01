@@ -14,7 +14,7 @@ The material is organized into four separate folders.
 
 * **VolumeExclusion**: Within this directory, we can discover files that comprehensively explore volume exclusion effects and their impact on perovskite charge transport modeling. Specifically, we compare a PSC charge transport model's internal states and current-voltage curves that rely on two different ionic current density descriptions. One of these descriptions assumes constant mobility, while the other considers a constant diffusion coefficient, with the remaining variable being density-dependent. Additional details can be found in [3].
 
-* **TMDCDynamics**: In this directory, we find example files that allow us to validate the vacancy-assisted charge transport model against experimental hysteresis and pulse measurement data for lateral 2D MoS$_2$-based memristive devices. These files support the significance of vacancy dynamics in TMDC devices. For a comprehensive discussion of the simulation results, we refer to [4].
+* **TMDCDynamics**: In this directory, we find example files that allow us to validate the vacancy-assisted charge transport model against experimental hysteresis and pulse measurement data for lateral 2D $\text{MoS}_2$-based memristive devices. These files support the significance of vacancy dynamics in TMDC devices. For a comprehensive discussion of the simulation results, we refer to [4].
 
 * **parameters**: This directory summarizes all the essential physical parameters required for performing the simulations.
 
