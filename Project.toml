@@ -13,7 +13,7 @@ DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 
 
 [compat]
-ChargeTransport = "^0.2.9"
+ChargeTransport = "0.2.9"
 ExtendableGrids = "^0.9,1"
 PyPlot = "^2.0"
 Roots = "^2.0"
